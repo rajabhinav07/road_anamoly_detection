@@ -16,7 +16,7 @@ It processes live feeds from a webcam or uploaded video files, logs detections t
 * `pothole_events.csv`: The auto-generated log file of detected potholes.
 * `test_vid2.mp4`: Sample video for testing.
 
-##  How to Run on Windows
+##  How to Run
 
 ### 1. Download and Open
 1. Download or clone this repository to your computer.
